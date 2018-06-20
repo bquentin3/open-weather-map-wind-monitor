@@ -5,3 +5,4 @@ You'll then have an api key to put into the program.
 
 Not the most elegant code. self taught.
 cheers
+to install pyowm: https://github.com/csparpa/pyowm
